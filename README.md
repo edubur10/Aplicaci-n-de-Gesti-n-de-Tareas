@@ -37,6 +37,24 @@ Utiliza una base de datos SQL para almacenar las tareas de forma persistente med
 ```bash
 git clone https://github.com/edubur10/Aplicacion-de-Gestion-de-Tareas.git
 ```
+2. Crear entorno virtual
+
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+3. Instalar dependencias
+
+```bash
+pip install -r requirements.txt
+```
+## Uso
+
+Ejecuta la aplicación principal
+
+```bash
+python main.py
+```
 
 ## Screenshots
 
